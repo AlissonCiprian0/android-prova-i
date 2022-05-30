@@ -1,0 +1,17 @@
+1- Variável é uma função do Dev-C++, ela serve para armazenar dados.
+2- Vetores também serve para armazenar dados, a diferença é que os vetores
+armazenam mais de um valor, enquanto a variável armazena um único valor
+3- Uma struct é uma variável especial que contém diversas outras variáveis
+normalmente de tipos diferentes, serve para armazenar dados.
+4- Ele está pedindo para o usuário digitar a área do retângulo.
+5- Uma função nada mais é do que uma subrotina usada em um programa, deve-se
+utilizá-las para armazenar um conjunto de dados.
+6- É um repositório online, alguns comandos são o git config, git
+stash e git clone.
+7- Alternativa A e D.
+8- Ele está pedindo ao usuário que digite um número inteiro e o antecessor
+desse número.
+9- A tipagem estática nos obriga a informar o tipo da variável
+explicitamente no momento em que a declaramos, e uma vez declarada
+com um tipo de dados, este tipo não mudará.
+10- Alternativa A.
