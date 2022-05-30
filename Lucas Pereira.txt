@@ -1,0 +1,21 @@
+1 - Variaves sao os nomes que queremos usar em um dado, para guardar alguns tipos de dados 
+
+2 - Vetores e um logar que voce pode guardar mais de um dado de variaveis, a unica diferença e que os vetores 
+podem ter uma quantidade maior que a veriaves comuns
+
+3 - O structs e um local onde vc pode guardar varios dados, o mesmo tipo de dados "iguais" com os mesmo propositos
+
+4 -O float esta criando duas variaveis, o scanf esta verificando/guardando os dados salvos,
+ eo printf esta calculando o tamanho da area do retando com base * altura
+
+5 - Funções são os comandos que eu devo dar a uma variaveis, para falar oq fazer ele deve, e nao deve fazer
+
+6 -Git e uma função do github, Git clone, git flow, git add . , git commit -m
+
+7 - alternativa c)
+
+8 - 
+
+9- Fala de um tipo de variavel que declaramos, nos fala o tipo de variavel 
+
+10 -  a), c) , d)
