@@ -1,0 +1,29 @@
+1 -  uma variável é um objeto capaz de reter e representar um valor ou expressão
+
+
+2 - Vetores e um logar que voce pode guardar mais de um dado de variaveis, a unica diferença e que os vetores 
+podem ter uma quantidade maior que a veriaves comuns
+1
+
+3 - O structs e um local onde vc pode guardar varios dados, o mesmo tipo de dados "iguais" com os mesmo propositos
+1
+
+4 -O float esta criando duas variaveis, o scanf esta verificando/guardando os dados salvos,
+ eo printf esta calculando o tamanho da area do retando com base * altura
+1
+
+5 - uma funcao e um pedaço de codigo quwe faz coisas especificas
+
+
+6 - e um local onde podemos trabalhar com varias pessoas, exemplos git add. , git commt , e git publish
+
+
+7 - alternativa b)
+
+
+8 - o "f" no lugar do "D" e o "&" no lugar errado
+
+9- Fala de um tipo de variavel que declaramos, nos fala o tipo de variavel
+1
+
+10 -  b) , d)
