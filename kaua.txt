@@ -1,0 +1,9 @@
+1- Variável é um espaço na memória ram que possui um nome, e serve para guardar informações.
+4- Está simulando uma coisa da vida real, ou seja, calculando a área do retângulo.
+5- São trechos de códigos que possuem um nome e fazem determinada função.
+6- É um versionador de código, ele serve para trabalhar remotamente... Três exemplos são o git add, git branch e
+git push.
+7- Alternativa B e F.
+8- O erro é que está usando a variável float.
+9- Basicamente é você falar para a memória ram o que vai ser colocado dentro dela.
+10- Alternativa B e D.
