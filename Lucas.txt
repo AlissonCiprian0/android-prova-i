@@ -1,4 +1,4 @@
-Nota: 9,0
+Nota: 9,0 
 
 1 -  uma variável é um objeto capaz de reter e representar um valor ou expressão
 0.5
