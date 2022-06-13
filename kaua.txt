@@ -1,9 +1,34 @@
+Nota: 9,5
+
 1- Variável é um espaço na memória ram que possui um nome, e serve para guardar informações.
+1
+
+2- Vetores também serve para armazenar dados, a diferença é que os vetores
+armazenam mais de um valor, enquanto a variável armazena um único valor
+1
+
+3- Uma struct é uma variável especial que contém diversas outras variáveis
+normalmente de tipos diferentes, serve para armazenar dados.
+1
+
 4- Está simulando uma coisa da vida real, ou seja, calculando a área do retângulo.
+1
+
 5- São trechos de códigos que possuem um nome e fazem determinada função.
+1
+
 6- É um versionador de código, ele serve para trabalhar remotamente... Três exemplos são o git add, git branch e
 git push.
+1
+
 7- Alternativa B e F.
+1
+
 8- O erro é que está usando a variável float.
+0.5
+
 9- Basicamente é você falar para a memória ram o que vai ser colocado dentro dela.
+1
+
 10- Alternativa B e D.
+1
