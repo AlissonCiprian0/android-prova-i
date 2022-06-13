@@ -1,4 +1,7 @@
+Nota: 9,0
+
 1 -  uma variável é um objeto capaz de reter e representar um valor ou expressão
+0.5
 
 
 2 - Vetores e um logar que voce pode guardar mais de um dado de variaveis, a unica diferença e que os vetores 
@@ -13,17 +16,21 @@ podem ter uma quantidade maior que a veriaves comuns
 1
 
 5 - uma funcao e um pedaço de codigo quwe faz coisas especificas
+1
 
 
 6 - e um local onde podemos trabalhar com varias pessoas, exemplos git add. , git commt , e git publish
+1
 
 
 7 - alternativa b)
-
+0.5
 
 8 - o "f" no lugar do "D" e o "&" no lugar errado
+1
 
 9- Fala de um tipo de variavel que declaramos, nos fala o tipo de variavel
 1
 
 10 -  b) , d)
+1
